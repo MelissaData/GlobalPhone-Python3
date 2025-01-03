@@ -164,7 +164,7 @@ This is the expected output from a successful setup for interactive mode:
 
 
 ## Result Codes
-For details about the result codes please refer to https://wiki.melissadata.com/index.php?title=Result_Code_Details#Global_Phone
+For details about the result codes please refer to https://docs.melissa.com/melissa/result-codes/result-codes-index.html
 
 ## Contact Us
 For free technical support, please call us at 800-MELISSA ext. 4 (800-635-4772 ext. 4) or email us at tech@melissa.com.
